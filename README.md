@@ -31,3 +31,6 @@
     private Float br_y;
     private Float bl_x;
     private Float bl_y;
+ 
+  int tableCount = (words.length() - words.replaceAll(thi, "").length()) / eachTablethirteenCount;
+        int mCellCount = words.length() - words.replaceAll(twe, "").length();
